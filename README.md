@@ -1,4 +1,4 @@
-# paper2025_gji
+# paper2025_GJI
 Codes used in the manuscript named Near-Surface Imaging of Urban Environments Using Distributed Acoustic Sensing (DAS) and Finite Element Method (FEM) Model
 
 ## License
